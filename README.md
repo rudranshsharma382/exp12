@@ -1,34 +1,34 @@
 # exp12
-👤 Student Details
+*👤 Student Details*
 
 Name: Rudransh Sharma
 
 PRN: 25070123096
 
-🎯 Aim
+*🎯 Aim*
 
 To perform data analysis operations such as sorting, grouping, and summarizing using Python (Pandas).
 
-🛠️ Functions / Commands Used (One-Line Definitions)
+*🛠️ Functions / Commands Used*
 
-read_csv() → Reads data from a CSV file into a DataFrame
+1.read_csv() → Reads data from a CSV file into a DataFrame
 
-DataFrame() → Creates a tabular data structure in Pandas
+2.DataFrame() → Creates a tabular data structure in Pandas
 
-groupby() → Groups data based on column values
+3.groupby() → Groups data based on column values
 
-value_counts() → Counts frequency of unique values
+4.value_counts() → Counts frequency of unique values
 
-unique() → Returns unique values from a column
+5.unique() → Returns unique values from a column
 
-nunique() → Returns number of unique values
+6.nunique() → Returns number of unique values
 
-sort_values() → Sorts data based on column values
+7.sort_values() → Sorts data based on column values
 
-crosstab() → Creates a cross-tabulation (frequency table)
+8.crosstab() → Creates a cross-tabulation (frequency table)
 
-print() → Displays output on the screen
+9.print() → Displays output on the screen
 
-✅ Result
+*✅ Result*
 
 The program successfully performed data analysis operations such as grouping, sorting, and summarization using Pandas.
